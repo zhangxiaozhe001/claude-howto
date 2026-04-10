@@ -87,3 +87,21 @@ promo-video/
 *.mp4
 
 update-plan*.md
+
+# MacBook-specific and editor/tool cache files
+.obsidian/
+Clippings/
+codex/
+copilot/
+
+# Local development/testing files
+docs/SETUP.md
+docs/TROUBLESHOOTING.md
+zh/.claude/
+zh/AGENTS.md
+
+# Miscellaneous temporary directories
+.openai/
+.anthropic/
+tmp/
+temp/
